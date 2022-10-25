@@ -2,13 +2,13 @@
 A graph for probabilities of illness, with y axis being probability of illness, and x axis being percentile in the probit style to highlight extreme values. Another way of graphing a distribution.
 I was inspired by the following figure to create a version using R. I haven't finished all of the way, with my main issues remaining being the legend, and adding a risk goal line.
 
-![](Fig_Inspiration.png)
+![](Fig_Inspiration.PNG)
 
 The two types of figures to create with this code are below. 
 A single probability of illness:
-![](Bathing_exposure_campy_probit.tiff)
+![](Bathing_exposure_campy_probit.TIFF)
 Multiple probabilities of illness:
-![](Multiple_exposures_campy_probit)
+![](Multiple_exposures_campy_probit.tiff)
 
 ## Installation
 Click download in the upper right hand corner.
