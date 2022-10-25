@@ -11,7 +11,7 @@ Multiple probabilities of illness:
 ![](Multiple_exposures_campy_probit.tiff)
 
 ## Installation
-Click download in the upper right hand corner.
+Click the green code in the upper right corner, then click download .zip file. Unzip and use!
 
 
 ## Usage example
