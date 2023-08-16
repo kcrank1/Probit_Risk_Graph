@@ -1,4 +1,5 @@
 # Probit Risk Graph
+# Update 8/16/2023:  I recommend checking out my new set of functions under the 'probability-plot' repository. The below functions use ggplot which is nice but I prefer the look of the other graphs. 
 A graph for probabilities of illness, with y axis being probability of illness, and x axis being percentile in the probit style to highlight extreme values. Another way of graphing a distribution.
 I was inspired by the following figure to create a version using R. I haven't finished all of the way, with my main issues remaining being the legend, and adding a risk goal line.
 
